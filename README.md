@@ -1,2 +1,5 @@
 # Deep_COCO
-A place to collaborate on ideas and source code for COCO Dataset 2017 Competition
+Convolutional Neural Networks (CNN) have become the “weapon of choice” when attempting to tackle image classification challenges ever since Geof Hinton extensively used them to win the ImageNet Challenge in 2012. Since then, a multitude of variations of the same CNN architecture have sprung out to develop more optimized networks that either perform the task faster or aim to capture more of the complexity that takes place in human vision. 
+These networks are being constantly developed to identify the location and category of different objects in an image, including multiple instances of the same objects, and to perform object segmentation (determining boundaries, e.g. lines and curves, at a pixel-level granularity). 
+Object segmentation is of particular interest to this project, most specifically, segmentation of backgrounds and amorpheous entities that typically give context to scenery.
+This repo contains the code, weights and insights found during our study of this fascinating challenge.
